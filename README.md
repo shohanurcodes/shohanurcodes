@@ -36,7 +36,7 @@ and improving my problem-solving and development skills.
 
 - 🌱 Exploring **Next.js**
 - 💻 Learning and practicing **Full Stack Web Development**
-- 🔨 Working on an **Agency Landing Page**
+- 🏋️ Working on **FitLog**, a fitness tracking web application
 - 📚 Following the **Programming Hero Full Stack Course**
 - 🎯 Building real-world projects to improve my development skills
 - 🤝 Looking forward to working on real-world projects
@@ -131,7 +131,8 @@ and improving my problem-solving and development skills.
 ### 🔹 DevStack
 
 An interactive development stack builder that allows developers
-to explore technologies and build their preferred development stack.
+to explore different technologies and build their preferred
+development stack.
 
 **Tech Stack:** React, TypeScript, Tailwind CSS
 
@@ -140,15 +141,16 @@ https://github.com/shohanurcodes/DevStack
 
 ---
 
-### 🔹 Agency Landing Page
+### 🔹 FitLog
 
-A modern and responsive agency landing page designed with a clean
-and professional user interface.
+FitLog is a fitness tracking web application designed to help
+users manage their workouts and keep track of their fitness
+activities.
 
-**Tech Stack:** HTML, CSS, JavaScript
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS
 
 🔗 **Repository:**  
-https://github.com/shohanurcodes/agency-landing-page
+https://github.com/shohanurcodes/fit-log
 
 ---
 
