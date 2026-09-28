@@ -1,4 +1,5 @@
-<!-- Banner -->
+<!-- ===================== BANNER ===================== -->
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sohanur%20Rahman&fontSize=45&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&animation=fadeIn"
@@ -6,7 +7,8 @@
   />
 </p>
 
-<!-- Introduction -->
+<!-- ===================== INTRO ===================== -->
+
 <h1 align="center">Hi 👋, I'm Sohanur Rahman</h1>
 
 <h3 align="center">
@@ -14,22 +16,21 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/shohanurcodes">
-    <img src="https://komarev.com/ghpvc/?username=shohanurcodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=shohanurcodes&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate Full Stack Web Developer who enjoys building modern,
-responsive, and user-friendly web applications. I have experience working
-with React, JavaScript, TypeScript, Node.js, MongoDB, and other modern web
-technologies.
+I am a passionate Full Stack Web Developer who enjoys building
+modern, responsive, and user-friendly web applications.
 
-I enjoy learning new technologies, building real-world projects, and
-improving my problem-solving and development skills.
+I enjoy learning new technologies, building real-world projects,
+and improving my problem-solving and development skills.
 
 ### 🚀 Currently
 
@@ -37,7 +38,7 @@ improving my problem-solving and development skills.
 - 💻 Learning and practicing **Full Stack Web Development**
 - 🔨 Working on an **Agency Landing Page**
 - 📚 Following the **Programming Hero Full Stack Course**
-- 🎯 Building projects to improve my development skills
+- 🎯 Building real-world projects to improve my development skills
 - 🤝 Looking forward to working on real-world projects
 
 ---
@@ -46,51 +47,51 @@ improving my problem-solving and development skills.
 
 <p align="left">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 </a>
 
-<a href="https://www.typescriptlang.org/">
+<a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
 </a>
 
-<a href="https://react.dev/">
+<a href="https://react.dev/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
 </a>
 
-<a href="https://nextjs.org/">
+<a href="https://nextjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="45" height="45" alt="Next.js"/>
 </a>
 
-<a href="https://tailwindcss.com/">
+<a href="https://tailwindcss.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
 </a>
 
-<a href="https://nodejs.org/">
+<a href="https://nodejs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
 </a>
 
-<a href="https://expressjs.com/">
+<a href="https://expressjs.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
 </a>
 
-<a href="https://www.mongodb.com/">
+<a href="https://www.mongodb.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
 </a>
 
-<a href="https://git-scm.com/">
+<a href="https://git-scm.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45" alt="Git"/>
 </a>
 
-<a href="https://github.com/">
+<a href="https://github.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </a>
 
@@ -117,7 +118,37 @@ improving my problem-solving and development skills.
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" alt="Facebook"/>
 </a>
 
+<a href="https://github.com/shohanurcodes" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</a>
+
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 DevStack
+
+An interactive development stack builder that allows developers
+to explore technologies and build their preferred development stack.
+
+**Tech Stack:** React, TypeScript, Tailwind CSS
+
+🔗 **Repository:**  
+https://github.com/shohanurcodes/DevStack
+
+---
+
+### 🔹 Agency Landing Page
+
+A modern and responsive agency landing page designed with a clean
+and professional user interface.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 **Repository:**  
+https://github.com/shohanurcodes/agency-landing-page
 
 ---
 
@@ -126,52 +157,30 @@ improving my problem-solving and development skills.
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=shohanurcodes&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
+    alt="Sohanur Rahman's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohanurcodes&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
+    alt="Sohanur Rahman's Top Languages"
   />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=shohanurcodes&theme=dark&hide_border=true"
-    alt="GitHub Streak"
+    alt="Sohanur Rahman's GitHub Streak"
   />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Agency Landing Page
-
-A modern and responsive agency landing page built with modern web technologies.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-🔗 [View Repository](https://github.com/shohanurcodes/agency-landing-page)
-
----
-
-### 🔹 DevStack Builder
-
-A development stack builder where users can explore technologies and build their preferred development stack.
-
-**Tech Stack:** React, TypeScript, Tailwind CSS
-
-🔗 [View Repository](https://github.com/shohanurcodes/B14-A05-DevStack)
 
 ---
 
 ## 💡 What I Like
 
 - 🌐 Building modern websites
-- ⚛️ React & component-based development
+- ⚛️ React and component-based development
 - 🧩 Solving programming problems
 - 📚 Learning new technologies
 - 🚀 Building real-world projects
